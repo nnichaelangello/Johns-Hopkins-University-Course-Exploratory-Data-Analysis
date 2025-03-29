@@ -26,9 +26,17 @@ This repository contains an exploratory data analysis project visualizing househ
   - `plot4.R`: Combines four plots in a 2x2 grid (`plot4.png`)
 - **Output Plots**:
   - `plot1.png`: Histogram
+    ![plot1](https://github.com/user-attachments/assets/f97d0af9-bcaf-4860-9941-1eac609c82a3)
+
   - `plot2.png`: Time series line plot
+    ![plot2](https://github.com/user-attachments/assets/154a3854-ce4d-4361-947f-168c9f2cfba3)
+
   - `plot3.png`: Multi-line sub-metering plot
+    ![plot3](https://github.com/user-attachments/assets/611b0c82-e119-424c-a3c2-e2b0c24219ed)
+
   - `plot4.png`: Multi-panel plot
+    ![plot4](https://github.com/user-attachments/assets/09830314-3cf8-4c5b-8933-f114378c3711)
+
 - **README.md**: This documentation
 
 All plots are PNG files with a resolution of 480x480 pixels.
@@ -48,17 +56,9 @@ All plots are PNG files with a resolution of 480x480 pixels.
    In R or RStudio, run:
    ```R
    source("plot1.R")
-   ![plot1](https://github.com/user-attachments/assets/9bd8d5a7-c5c1-48dd-90b3-1bd0dc9f9f70)
-
    source("plot2.R")
-   ![plot2](https://github.com/user-attachments/assets/76c0f93e-a096-4328-932a-300629232f04)
-
    source("plot3.R")
-   ![plot3](https://github.com/user-attachments/assets/976833e3-7e6a-4066-94c7-e1c95f8c0ea1)
-
    source("plot4.R")
-   ![plot4](https://github.com/user-attachments/assets/c06d6d25-971d-4f3d-8b2f-361e2c150d8d)
-
    ```
 
 ## Additional Notes
