@@ -48,9 +48,17 @@ All plots are PNG files with a resolution of 480x480 pixels.
    In R or RStudio, run:
    ```R
    source("plot1.R")
+   ![plot1](https://github.com/user-attachments/assets/9bd8d5a7-c5c1-48dd-90b3-1bd0dc9f9f70)
+
    source("plot2.R")
+   ![plot2](https://github.com/user-attachments/assets/76c0f93e-a096-4328-932a-300629232f04)
+
    source("plot3.R")
+   ![plot3](https://github.com/user-attachments/assets/976833e3-7e6a-4066-94c7-e1c95f8c0ea1)
+
    source("plot4.R")
+   ![plot4](https://github.com/user-attachments/assets/c06d6d25-971d-4f3d-8b2f-361e2c150d8d)
+
    ```
 
 ## Additional Notes
