@@ -26,15 +26,19 @@ This repository contains an exploratory data analysis project visualizing househ
   - `plot4.R`: Combines four plots in a 2x2 grid (`plot4.png`)
 - **Output Plots**:
   - `plot1.png`: Histogram
+
     ![plot1](https://github.com/user-attachments/assets/f97d0af9-bcaf-4860-9941-1eac609c82a3)
 
   - `plot2.png`: Time series line plot
+
     ![plot2](https://github.com/user-attachments/assets/154a3854-ce4d-4361-947f-168c9f2cfba3)
 
   - `plot3.png`: Multi-line sub-metering plot
+
     ![plot3](https://github.com/user-attachments/assets/611b0c82-e119-424c-a3c2-e2b0c24219ed)
 
   - `plot4.png`: Multi-panel plot
+
     ![plot4](https://github.com/user-attachments/assets/09830314-3cf8-4c5b-8933-f114378c3711)
 
 - **README.md**: This documentation
